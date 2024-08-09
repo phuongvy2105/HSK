@@ -1,2 +1,0 @@
-# HSK
-hướng sự kiện
